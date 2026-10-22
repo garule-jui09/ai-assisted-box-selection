@@ -171,3 +171,10 @@ The learning reflection should describe my own understanding and experience whil
 ## 12. Project Status
 
 This project is intended as a Django hiring assignment. Features and test results should be verified before submission.
+
+
+## Project Development Transcript
+
+The project conversation transcript is available here:
+
+[View ChatGPT Project Transcript](transcript/django_project_chat_transcript.pdf)    
